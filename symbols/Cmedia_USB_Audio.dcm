@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CM108AH
+D Highly Integrated USB Audio I/O Controller
+K Cmedia USB Audio
+F https://www.cmedia.com.tw/products/USB20_FULL_SPEED/CM108AH
+$ENDCMP
+#
+#End Doc Library
