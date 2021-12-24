@@ -148,7 +148,7 @@
         (name "DVSS" (effects (font (size 1.27 1.27))))
         (number "36" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 15.24 33.02 180) (length 2.54)
+      (pin power_out line (at 15.24 33.02 180) (length 2.54)
         (name "REGV" (effects (font (size 1.27 1.27))))
         (number "37" (effects (font (size 1.27 1.27))))
       )
