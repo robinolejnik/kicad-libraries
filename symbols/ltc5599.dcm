@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LTC5599
-D 30MHz to 1300MHz  Low Power  Direct Quadrature Modulator
-F https://www.analog.com/media/en/technical-documentation/data-sheets/5599f.pdf
-$ENDCMP
-#
-#End Doc Library
